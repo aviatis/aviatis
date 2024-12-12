@@ -40,7 +40,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aviatis&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviatis&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
